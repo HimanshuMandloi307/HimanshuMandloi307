@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU MANDLOI</h1>
 <h3 align="center">A passionate frontend developer A developer and tech enthusiast i like learning new things and brushing up my skills.from India</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fpedes%2Fmake-your-github-profile-great-again-oan&psig=AOvVaw1Btyu-4U_2wNRFAty6GUii&ust=1629009325209000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjhoeryr_ICFQAAAAAdAAAAABAD" alt="boy in a jacket">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshumandloi307&label=Profile%20views&color=0e75b6&style=flat" alt="himanshumandloi307" /> </p>
-
+<img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshumandloi307" alt="himanshumandloi307" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/himanshu227426" target="blank"><img src="https://img.shields.io/twitter/follow/himanshu227426?logo=twitter&style=for-the-badge" alt="himanshu227426" /></a> </p>
