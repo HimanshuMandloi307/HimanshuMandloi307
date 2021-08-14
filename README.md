@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HIMANSHU MANDLOI</h1>
-<h3 align="center">A passionate frontend developer A developer and tech enthusiast i like learning new things and brushing up my skills.from India</h3>
+<h3 align="center">A passionate frontend developer A developer and tech enthusiast i like learning new things and brushing up my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshumandloi307&label=Profile%20views&color=0e75b6&style=flat" alt="himanshumandloi307" /> </p>
 <img align="center" alt="Coding" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
