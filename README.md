@@ -93,12 +93,4 @@ https://github.com/HimanshuMandloi307
 
 ---
 
-## 📈 Profile Visits
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HimanshuMandloi307&icon=2&color=12" />
-</p>
-
----
-
 ⭐ *If you like my work, consider starring my repositories and connecting with me!*
