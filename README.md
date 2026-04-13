@@ -1,3 +1,8 @@
+> **Available for new opportunities** — DevOps / SRE / Cloud Engineer roles
+> Remote · Bangalore · Pune · Hyderabad · Notice period: 15 days · [hmandloi346@gmail.com](mailto:hmandloi346@gmail.com)
+
+---
+
 <h1 align="center">Hi, I'm Himanshu Mandloi</h1>
 <h3 align="center">DevOps Engineer · AWS EKS · Terraform · ArgoCD · Prometheus</h3>
 
@@ -19,15 +24,57 @@ I'm a DevOps Engineer and the **sole DevOps owner** at Zevo360 Technologies — 
 
 - **Currently at:** Zevo360 Technologies Pvt. Ltd. — DevOps Engineer (sole owner)
 - **Stack:** AWS EKS · Terraform · ArgoCD · Helm · Prometheus · Grafana · Jenkins · GitHub Actions · Docker
-- **Impact:** 40% reduction in deployment time · 99%+ uptime maintained · 50% faster MTTR · 15+ microservices managed on EKS
 - **Certs:** AWS Cloud Practitioner ✓ · AWS Solutions Architect Associate (target Q2 2026)
 - **Open to:** Remote · Bangalore · Pune · Hyderabad
 
 ---
 
+## Impact at Zevo360
+
+> Running production infrastructure solo for a live parenting app — end-to-end ownership across 15+ microservices.
+
+| Metric | Before | After | Result |
+|--------|--------|-------|--------|
+| Deployment time | Baseline | Optimized pipelines | **40% faster** |
+| System uptime | Variable | EKS + ALB + monitoring | **99%+ maintained** |
+| Mean time to recovery (MTTR) | Slow manual triage | Prometheus alerts + runbooks | **50% reduction** |
+| Microservices on EKS | — | ArgoCD GitOps | **15+ managed** |
+
+---
+
 ## Featured Project — zero-to-eks
 
-> **Production-grade AWS EKS setup, zero to running — built as a portfolio differentiator**
+> **Production-grade AWS EKS cluster — zero to running, fully automated**
+
+```
+GitHub Actions (CI/CD)
+        │
+        ▼
+  ┌─────────────────────────────────────────────┐
+  │                  AWS Cloud                  │
+  │                                             │
+  │  ┌──────────────────────────────────────┐   │
+  │  │           VPC (Terraform)            │   │
+  │  │                                      │   │
+  │  │   Public Subnet    Private Subnet    │   │
+  │  │   ┌──────────┐    ┌──────────────┐  │   │
+  │  │   │   ALB    │    │  EKS Cluster │  │   │
+  │  │   └────┬─────┘    │              │  │   │
+  │  │        │          │  ┌─────────┐ │  │   │
+  │  │        └─────────►│  │  Pods   │ │  │   │
+  │  │                   │  └────┬────┘ │  │   │
+  │  │                   └───────┼──────┘  │   │
+  │  └───────────────────────────┼─────────┘   │
+  │                              │             │
+  │   S3 (Terraform state)       │             │
+  │   DynamoDB (state lock)      │             │
+  └──────────────────────────────┼─────────────┘
+                                 │
+                    ┌────────────┼────────────┐
+                    ▼            ▼            ▼
+                 ArgoCD      Prometheus    Grafana
+               (GitOps)    (Monitoring)  (Dashboards)
+```
 
 | What | How |
 |------|-----|
@@ -81,4 +128,11 @@ I'm a DevOps Engineer and the **sole DevOps owner** at Zevo360 Technologies — 
   <a href="https://github.com/HimanshuMandloi307/zero-to-eks">
     <img src="https://img.shields.io/badge/zero--to--eks-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Open to DevOps / SRE / Cloud Engineer roles</b><br>
+  <a href="mailto:hmandloi346@gmail.com">hmandloi346@gmail.com</a> · 15-day notice period · Indore (open to remote & relocation)
 </p>
