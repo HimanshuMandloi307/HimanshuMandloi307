@@ -21,10 +21,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer+%7C+Sole+Owner+%40+Zevo360;AWS+EKS+%7C+Terraform+%7C+ArgoCD;GitOps+%7C+Prometheus+%7C+Grafana;40%25+Faster+Deployments+%7C+99%25+Uptime;Open+to+Pan+India+%7C+Remote+%7C+Hybrid&center=true&width=700&height=45&color=7F3ACE">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</p>
-
 ---
 
 ## About Me
