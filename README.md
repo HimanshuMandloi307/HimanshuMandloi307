@@ -1,74 +1,67 @@
-<h1 align="center">👋 Hi, I'm Himanshu Mandloi</h1>
-<h3 align="center">DevOps Engineer | Automation • Cloud • CI/CD</h3>
+<h1 align="center">Hi, I'm Himanshu Mandloi</h1>
+<h3 align="center">DevOps Engineer · AWS EKS · Terraform · ArgoCD · Prometheus</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshumandloi307&label=Profile%20Views&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;CI/CD+Automation+Specialist;AWS+Docker+Kubernetes;Terraform+Ansible;QA+Automation+to+DevOps&center=true&width=650&height=45&color=7F3ACE">
+  <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer+%7C+Sole+Owner+%40+Zevo360;AWS+EKS+%7C+Terraform+%7C+ArgoCD;GitOps+%7C+Prometheus+%7C+Grafana;40%25+Faster+Deployments+%7C+99%25+Uptime;Open+to+Remote+%7C+Bangalore+%7C+Pune+%7C+Hyderabad&center=true&width=700&height=45&color=7F3ACE">
 </p>
+
+---
+
+## About Me
+
+I'm a DevOps Engineer and the **sole DevOps owner** at Zevo360 Technologies — a parenting mobile app serving real users in production. I manage the entire infrastructure end-to-end: from Terraform provisioning and EKS cluster management to CI/CD pipelines, GitOps deployments, and observability.
+
+- **Currently at:** Zevo360 Technologies Pvt. Ltd. — DevOps Engineer (sole owner)
+- **Stack:** AWS EKS · Terraform · ArgoCD · Helm · Prometheus · Grafana · Jenkins · GitHub Actions · Docker
+- **Impact:** 40% reduction in deployment time · 99%+ uptime maintained · 50% faster MTTR · 15+ microservices managed on EKS
+- **Certs:** AWS Cloud Practitioner ✓ · AWS Solutions Architect Associate (target Q2 2026)
+- **Open to:** Remote · Bangalore · Pune · Hyderabad
+
+---
+
+## Featured Project — zero-to-eks
+
+> **Production-grade AWS EKS setup, zero to running — built as a portfolio differentiator**
+
+| What | How |
+|------|-----|
+| Infrastructure | Terraform modules — VPC + EKS (`terraform-aws-modules`, AWS provider `~> 5.0`) |
+| State management | S3 remote backend + DynamoDB locking |
+| GitOps | ArgoCD — app definitions live in Git, auto-synced to cluster |
+| Monitoring | Prometheus + Grafana via `kube-prometheus-stack` Helm chart |
+| CI/CD | GitHub Actions — lint → plan → apply on merge |
+| Sample workload | Nginx app deployed via custom Helm chart |
+
+👉 [github.com/HimanshuMandloi307/zero-to-eks](https://github.com/HimanshuMandloi307/zero-to-eks)
+
+---
+
+## What I Build & Operate
+
+- End-to-end CI/CD pipelines — Jenkins + GitHub Actions, from commit to production
+- AWS infrastructure as code — VPC, EKS, ECS, ECR, ALB, WAF, Route53, IAM via Terraform
+- GitOps workflows — ArgoCD managing 15+ microservices on EKS
+- Observability stacks — Prometheus + Grafana + CloudWatch dashboards and alerting
+- Container orchestration — Kubernetes (EKS), Helm chart authoring and management
+- Config management — Ansible playbooks for server provisioning
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="70%" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,docker,ansible,jenkins,githubactions,helm,git,bash,linux,grafana,prometheus,mysql,mongodb&theme=dark" />
 </p>
 
 ---
 
-## 💫 About Me
-
-- 💼 **Currently working at:** Zevo360 Technologies Pvt. Ltd. as a **Junior DevOps Engineer**
-- 🔁 **Career path:** QA Automation ➜ DevOps
-- 🤝 **Open to collaborate on:** CI/CD pipelines, DevOps automation, cloud & Kubernetes
-- 🌱 **Currently learning:** Kubernetes, Terraform, Ansible, AWS
-- 💬 **Ask me about:** Jenkins, Docker, AWS basics, DevOps & automation
-- ⚡ **Fun fact:** I automate first, then document 🚀
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/himanshumandloi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:hmandloi346@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://twitter.com/himanshu227426">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-  </a>
-</p>
-
----
-
-## ⚙️ DevOps & Cloud Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,git,bash,linux&theme=dark" />
-</p>
-
----
-
-## 🧪 Testing & Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,playwright,postman,nodejs,javascript&theme=dark" />
-</p>
-
----
-
-## 🗄️ Databases & Monitoring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,grafana&theme=dark" />
-</p>
-
----
-
----
-
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=himanshumandloi307&theme=onedark&no-frame=true&row=1&column=6" />
@@ -76,21 +69,16 @@
 
 ---
 
-## 🚀 What I Build
+## Connect
 
-- 🔹 CI/CD pipelines using Jenkins & GitHub Actions  
-- 🔹 AWS infrastructure with Terraform  
-- 🔹 Dockerized applications  
-- 🔹 Kubernetes deployments  
-- 🔹 Automation-first DevOps solutions  
-
----
-
-## 👨‍💻 Projects
-
-👉 **All projects:**  
-https://github.com/HimanshuMandloi307
-
----
-
-⭐ *If you like my work, consider starring my repositories and connecting with me!*
+<p align="center">
+  <a href="https://linkedin.com/in/himanshu-mandloi-046971175">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hmandloi346@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HimanshuMandloi307/zero-to-eks">
+    <img src="https://img.shields.io/badge/zero--to--eks-Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
