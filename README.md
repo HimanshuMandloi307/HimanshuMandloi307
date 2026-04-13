@@ -123,18 +123,7 @@ GitHub Actions (CI/CD)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuMandloi307&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuMandloi307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuMandloi307&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="36%" />
-</p>
-
 ---
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshumandloi307&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
